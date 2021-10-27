@@ -1,4 +1,4 @@
-# Login in JWT
+# Process of login with JWT, Flask, SQLAlchemy
 
 # Installation
 ```
@@ -23,4 +23,4 @@ import jwt
 ```
 
 # Examples
-When you are at index page you will have 2 functions: 1st is logging in page, 2nd is protected page. In first case you should write your login and password, in the second case you should write token, and then in this page answer will be shown
+When viewing the index  page, it has two functions. 1. Is the login page, 2. Is a protected page. In the former case you need to enter the login and password, in the latter case you need to write the token. Then you will see the answer on this page
